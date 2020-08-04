@@ -1,0 +1,11 @@
+{
+    "name": "Hanzi Lookup for Chrome",
+    "version": "1.0",
+    "description": "Chrome extension to lookup Chinese characters.",
+    "permissions": ["contextMenus"],
+    "background": {
+      "scripts": ["./src/js/context-menu.js"],
+      "persistent": false
+    },
+    "manifest_version": 2
+  }

@@ -1,0 +1,5 @@
+{
+    "id": "hanzi-lookup-for-chrome",
+    "title": "Lookup the characters '%s'",
+    "contexts": ["selection"]
+}
